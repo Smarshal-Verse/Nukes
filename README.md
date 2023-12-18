@@ -1,11 +1,10 @@
 # Nuclear Detonation Detector App
-
-<img src="https://github.com/Smarshal-Verse/Nukes/assets/99678760/6a65e3de-a7e4-49e7-9a52-02ad120843fb" width="700" height="350" /> 
-
-
 ## Overview
 
 The Nuclear Detonation Detector App is an advanced mobile application designed to detect potential nuclear detonations using a machine learning model. The app utilizes satellite imagery and Twitter news data to train the model, and it strategically deploys the model at railway locations for improved detection near critical infrastructure. The app integrates controllers, AlarmManager, and Ktor for efficient handling of alerts and real-time communication.
+
+<img src="https://github.com/Smarshal-Verse/Nukes/assets/99678760/6a65e3de-a7e4-49e7-9a52-02ad120843fb" width="700" height="350" /> 
+
 
 ## Features
 
